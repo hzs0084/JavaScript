@@ -12,4 +12,6 @@ Day 2 (Counter.js):
 
 ![image](https://github.com/hzs0084/JavaScript/assets/43252065/3f90f5ba-e577-4d30-8943-f7862c7bfa76)
 
+Day 3 (To Be or Not To be.js)
 
+![image](https://github.com/hzs0084/JavaScript/assets/43252065/22173043-dcb9-40a5-b059-013452f735ed)
