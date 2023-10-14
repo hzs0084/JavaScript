@@ -1,4 +1,4 @@
-# JavaScript
+  # JavaScript
 30 Days of JavaScript Problems on LeetCode
 Trying to learn JavaScript through LeetCode. 
 
@@ -15,3 +15,7 @@ Day 2 (Counter.js):
 Day 3 (To Be or Not To be.js)
 
 ![image](https://github.com/hzs0084/JavaScript/assets/43252065/22173043-dcb9-40a5-b059-013452f735ed)
+
+Day 4 (Counter.js):
+
+![image](https://github.com/hzs0084/JavaScript/assets/43252065/1d25be65-6245-476d-b00c-10796ed6ebb7)
