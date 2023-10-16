@@ -19,3 +19,7 @@ Day 3 (To Be or Not To be.js)
 Day 4 (Counter.js):
 
 ![image](https://github.com/hzs0084/JavaScript/assets/43252065/1d25be65-6245-476d-b00c-10796ed6ebb7)
+
+Day 5 (Array.js):
+
+![image](https://github.com/hzs0084/JavaScript/assets/43252065/18a23695-7bbd-47a2-8ded-b98890cc40c9)
