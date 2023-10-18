@@ -23,3 +23,8 @@ Day 4 (Counter.js):
 Day 5 (Array.js):
 
 ![image](https://github.com/hzs0084/JavaScript/assets/43252065/18a23695-7bbd-47a2-8ded-b98890cc40c9)
+
+Day 6 (Filter Elements from Array.js):
+
+![image](https://github.com/hzs0084/JavaScript/assets/43252065/dbb7965b-00a3-4532-914e-8e7d9734d567)
+
