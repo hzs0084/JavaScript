@@ -33,3 +33,6 @@ Day 7 (Array Reduce Transformation.js):
 ![image](https://github.com/hzs0084/JavaScript/assets/43252065/f243ebb1-6233-4236-8dcf-40a0f08cf015)
 ![image](https://github.com/hzs0084/JavaScript/assets/43252065/0d4ca139-ded1-4be3-8daf-5511d590a6a7)
 
+Day 8 (Function Composition.js):
+
+![image](https://github.com/hzs0084/JavaScript/assets/43252065/4d608697-b248-42c4-b6f0-da9c63d36aec)
